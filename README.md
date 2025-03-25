@@ -1,4 +1,4 @@
-Hello, I'm Yash, a 22-year-old Software Engineer with a keen focus on mobile side of things, working at [Dyte](https://dyte.io) mostly on [WebRTC](https://webrtc.org/).
+Hello, I'm Yash, a 22-year-old Software Engineer with a keen focus on mobile side of things, working with [WebRTC](https://webrtc.org/).
 
 [![Google DevLibrary](https://img.shields.io/badge/Google%20DevLibrary-Yash%20Garg-brightgreen?style=flat&logo=android)](https://yashgarg.dev/devlibrary) ![Stalkers](https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet)
 
